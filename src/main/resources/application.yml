@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/studyDB?serverTimezone=Asia/Seoul
+    username: kkb
+    password: rud680625!
+    driver-class-name: com.mysql.cj.jdbc.Driver
