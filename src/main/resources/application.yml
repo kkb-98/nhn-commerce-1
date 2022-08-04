@@ -4,3 +4,5 @@ spring:
     username: kkb
     password: rud680625!
     driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8088
